@@ -1,5 +1,5 @@
-- 👋 Sup, I’m @whatsgoodg
-- 👀 I’m a currently sophomore in college majoring in CSE
+- 👋 Hi, I’m @whatsgoodg
+- 👀 I’m currently a sophomore in college majoring in CSE
 - 🌱 I'm a would be back-end developer
 - <!---📫 How to reach me ... email me via rlwjddl1596@naver.com--->
 <!---
